@@ -1,0 +1,30 @@
+1 ^Patrimônio Líquido^
+2 ^Pontuação de amigos^
+
+// tooltips
+3 ^Criar nova familia^
+4 ^Mover em familia^
+5 ^Deletar familia^
+6 ^Cancelar^
+
+// for the dialog
+7 ^Deletar familia?^
+8 ^Tem certeza que você deseja deletar a "%s" familia?^
+
+// not actually used yet, but will be:
+9 ^Escolha uma familia^
+10 ^Cancelar^
+
+11 ^Fundos líquidos^
+12 ^Contagem de amigos^
+
+
+
+13 ^Personalidade para %s^
+
+14 ^Como criar uma familia^
+15 ^Você pode criar uma nova família clicando no botão Criar uma família na parte inferior da tela^
+
+16 ^Retornar para a tela da vizinhança^
+
+17 ^Clique para criar uma nova familia^

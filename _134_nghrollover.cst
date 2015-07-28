@@ -1,0 +1,51 @@
+	kOccupiedHouseText,
+	kEmptyHouseTextNormalText,
+	kEmptyHouseTextMoveInModeCannotAffordText,
+	kEmptyHouseTextMoveInModeCanAffordText,
+	kEmptyLotMoveInCannotAffordText,
+	kEmptyLotMoveInModeCanAffordText,
+	kTutorialText,
+	kStreetAddressText,
+	kTutorialCannotMoveInText,
+
+^A família %s
+Patrimônio líquido: %s
+Amigos: %d^
+
+^Custo: %s
+Escolha ou crie uma família e movê-los para jogar.^
+
+^Custo: %s
+A familia %s tem apenas %s.  Eles não podem pagar esta casa.^
+
+^Custo: %s
+Esta poderia ser a casa dos seus sonhos! Se você comprar, a família terá %s para gastar em artigos para a casa.^
+
+^Custo: %s
+A família %s tem apenas %s.  Eles não podem pagar este lote.^
+
+^Custo: %s
+Este poderia ser o lote dos seus sonhos! Se você comprar este lote, a família terá %s para passar para construir uma casa e comprar itens domésticos.^
+
+^Para a casa do aprender para jogar o jogo^
+
+^%s Sim Lane^
+
+^Não é possível mover-se para a casa de tutorial!^
+
+^A Família %s
+Patrimônio Líquido: %s
+Amigos: %d
+Clique para expulsar esta família.^
+
+^Clique para demolir esta casa.^
+
+^Não há ninguém para expulsar e nada para demolir.^
+
+^Você não pode demolir a casa de tutorial até depois de fazer o tutorial.^
+
+^Bem-vindo de volta à nossa casa %s!^
+^Conecte-se para a casa "%s" em "%s". Há %s nesta casa.^
+^Bem-vindo de volta à nossa casa %s!  Sua casa já está on-line em "%s".  Há %s nesta casa.^
+^É 1 pessoa^
+^%d pessoas^

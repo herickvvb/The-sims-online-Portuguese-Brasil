@@ -1,0 +1,27 @@
+
+kEvictHouseXXX
+^Demolir casa?^
+^Você quer demolir esta casa?^
+
+kEvictFamilyXXX
+^Expulsar Familia?^
+^A %s tem patrimônio líquido de %s.  voce quer expulsá-los?^
+
+kEvictNothingXXX
+^Nada para demolir^
+^Não há nada aqui para demolir.^
+
+kEvictCommunityXXX
+^Espaço Comunitário^
+^Você não pode demolir espaço comunitário.^
+
+kEvictMarqueeXXX
+^Desculpe^
+^Você não pode demolir a marquise SimEstates.^
+
+kEvictCountNotXXX
+^Erro^
+^não foi possivel expulsar!^
+
+^Desculpe^
+^Você não pode demolir a casa de tutorial.^
